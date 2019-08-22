@@ -1,0 +1,15 @@
+.cabecalho {
+  background-color: #ED3833;
+  height: 56px;
+  width: 100%;
+  margin: 0px;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.icon {
+  height: 16px;
+  width: auto;
+  padding: 0px;
+}
+
